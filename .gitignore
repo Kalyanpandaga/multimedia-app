@@ -1,0 +1,18 @@
+# Node.js
+node_modules/
+.env
+dist/
+build/
+.cache/
+
+# React
+frontend/.build/
+frontend/dist/
+frontend/node_modules/
+frontend/.env
+
+
+# Express / Backend
+backend/node_modules/
+backend/.env
+
